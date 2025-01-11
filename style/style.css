@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Fira Sans", serif;
+}
+
+.glob {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+/* nav bar style */
+
+.nav-logo {
+    width: 222px;
+    height: 38px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.4px;
+    margin-top: 31px;
+    margin-bottom: 31px;
+
+}
+
+.nav-name,
+.banner {
+    display: flex;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Sign-btn {
+    padding: 15px 30px 15px 30px;
+    border: 1px solid rgba(0, 106, 80, 1);
+    border-color: rgba(0, 106, 80, 1);
+    border-radius: 8px;
+    color: rgba(0, 106, 80, 1);
+    background-color: white;
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: left;
+    margin-top: 24px;
+    margin-bottom: 24px;
+
+}
+
+/* Banner styles */
+.banner {}
+
+.banner-sec {
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 24px;
+    width: Fixed (1, 280px)px;
+    height: Hug (560px)px;
+    padding: 80px 100px 80px 100px;
+    gap: 64px;
+    margin-top: 20px;
+
+}
+
+.banner-des {
+    width: Hug (622px)px;
+    height: Hug (326px)px;
+    gap: 24px;
+    opacity: 0px;
+
+}
+
+.ban-sub-heading {
+    width: 622px;
+    height: 29px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Fira Sans;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.8px;
+    color: rgba(14, 14, 14, 0.5);
+
+
+}
+
+.ban-heading {
+    width: 622px;
+    height: 201px;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 67.2px;
+    text-align: left;
+    margin-top: 16px;
+
+}
+
+.banner-img {
+
+    width: 474.03px;
+    height: 400px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+
+.ban-btn {
+    width: Hug (270px)px;
+    height: Hug (56px)px;
+    padding: 17px 34px 17px 34px;
+    gap: 48px;
+    border-radius: 8px;
+    opacity: 0px;
+    background: rgba(0, 106, 80, 1);
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: left;
+    border: none;
+    margin-top: 24px;
+
+
+
+}
