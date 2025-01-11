@@ -288,7 +288,9 @@
 }
 
 /* news section styles */
-.recent-news {}
+.recent-news {
+    margin-top: 80px;
+}
 
 .satellite-news-1,
 .satellite-news-2 {
