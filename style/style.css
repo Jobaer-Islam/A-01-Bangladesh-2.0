@@ -11,6 +11,9 @@
     width: 1280px;
     margin: 0 auto;
 }
+.body-color{
+    background-color:rgb(245,245,245)
+}
 
 /* nav bar style */
 
@@ -42,7 +45,6 @@
     border-color: rgba(0, 106, 80, 1);
     border-radius: 8px;
     color: rgba(0, 106, 80, 1);
-    background-color: white;
     font-family: Fira Sans;
     font-size: 18px;
     font-weight: 600;
