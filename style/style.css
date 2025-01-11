@@ -263,7 +263,28 @@
 
 }
 
-.dr-Yunus {}
+#dr-Yunus {
+
+    margin-top: 32px;
+    width: Fill (1, 280px)px;
+    height: Hug (256px)px;
+    padding: 48px 24px 48px 24px;
+    gap: 24px;
+    border-radius: 16px;
+    border: 1px;
+
+}
+.h-mar{
+    margin-top: 12px;
+    margin-bottom: 4px;
+}
+
+.yunus-qoute {
+    background-image: url(../assests/quote-bg.png);
+    background-repeat: no-repeat;
+    background-color: white;
+    background-position: top 20px left 24px;
+}
 
 /* news section styles */
 .recent-news {}
@@ -370,8 +391,8 @@
     border: 1px;
     background-color: rgba(0, 106, 80, 1);
     color: white;
-    
-    
+
+
 
 
 }
