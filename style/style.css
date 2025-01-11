@@ -137,7 +137,8 @@
 .v-head {
     margin-top: 80px;
 }
-.v-head p{
+
+.v-head p {
     margin-top: 24px
 }
 
@@ -227,10 +228,11 @@
     opacity: 0px;
     background-color: rgba(84, 144, 245, 1);
     border: none;
-    margin-top: 24px; 
+    margin-top: 24px;
 
 
 }
+
 .d-g-m .green button {
     width: Hug (122px)px;
     height: Hug (41px)px;
@@ -240,10 +242,11 @@
     opacity: 0px;
     background-color: rgba(9, 161, 92, 1);
     border: none;
-    margin-top: 48px; 
+    margin-top: 48px;
 
 
 }
+
 .d-g-m .modern button {
     width: Hug (122px)px;
     height: Hug (41px)px;
@@ -254,9 +257,63 @@
     background-color: rgba(255, 194, 57, 1);
 
     border: none;
-    margin-top: 24px; 
+    margin-top: 24px;
 
 
 }
 
 .dr-Yunus {}
+
+/* news section styles */
+.recent-news {}
+
+.satellite-news-1,
+.satellite-news-2 {
+    display: flex;
+    padding: 48px;
+    background-color: white;
+    margin-bottom: 24px;
+    margin-top: 32px;
+    width: Fill (1, 280px)px;
+    height: Hug (402px)px;
+    gap: 32px;
+    border-radius: 24px
+}
+
+.news-img {
+    width: 408px;
+    height: 306px;
+    gap: 0px;
+    border-radius: 24px;
+    opacity: 0px;
+
+}
+
+.img-margin {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.p-margin {
+    margin-top: 12px;
+    margin-bottom: 32px;
+}
+
+.news-h {
+    margin-bottom: 24px;
+}
+
+.news-btn {
+    width: Hug (139px)px;
+    height: Hug (48px)px;
+    padding: 13px 26px 13px 26px;
+    gap: 48px;
+    border-radius: 8px;
+    opacity: 0px;
+    background-color: rgba(0, 106, 80, 1);
+    border: none;
+    color: white;
+}
+.news-color{
+    color: rgba(14, 14, 14, 0.7);
+}
