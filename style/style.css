@@ -11,8 +11,9 @@
     width: 1280px;
     margin: 0 auto;
 }
-.body-color{
-    background-color:rgb(245,245,245)
+
+.body-color {
+    background-color: rgb(245, 245, 245)
 }
 
 /* nav bar style */
@@ -128,6 +129,134 @@
     border: none;
     margin-top: 24px;
 
+}
+
+/* Vision of Fututre section styles */
+.vision-future {}
+
+.v-head {
+    margin-top: 80px;
+}
+.v-head p{
+    margin-top: 24px
+}
+
+.v-heading {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    color: rgba(14, 14, 14, 1);
+    ;
+}
+
+.v-heading p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+
+}
+
+.d-g-m {
+    display: flex;
+    width: Fill (1, 280px)px;
+    height: Hug (325px)px;
+    gap: 24px;
+    opacity: 0px;
+    margin-top: 32px;
+}
+
+.digital {
+    background-color: rgba(84, 144, 245, 0.2);
+    width: Fill (410.67px)px;
+    height: Hug (325px)px;
+    padding: 32px;
+    gap: 24px;
+    border-radius: 16px;
+    opacity: 0px;
+    border: 1px solid rgba(84, 144, 245, 1)
+}
+
+.green {
+    background-color: rgba(198, 228, 214, 1);
+    width: Fill (410.67px)px;
+    height: Hug (325px)px;
+    padding: 32px;
+    gap: 24px;
+    border-radius: 16px;
+    opacity: 0px;
+    border: 1px solid rgba(9, 161, 92, 1)
+}
+
+.modern {
+    background-color: rgba(247, 235, 207, 1);
+    width: Fill (410.67px)px;
+    height: Hug (325px)px;
+    padding: 32px;
+    gap: 24px;
+    border-radius: 16px;
+    opacity: 0px;
+    border: 1px solid rgba(255, 194, 57, 1)
+}
+
+.d-g-m img {
+    margin-bottom: 24px;
+    width: 64px;
+    height: 64px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.d-g-m h3 {}
+
+.d-g-m p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgba(14, 14, 14, 0.7);
+    width: 346.67px;
+    margin-top: 12px
+}
+
+.d-g-m .digital button {
+    width: Hug (122px)px;
+    height: Hug (41px)px;
+    padding: 11px 20px 11px 20px;
+    gap: 48px;
+    border-radius: 8px;
+    opacity: 0px;
+    background-color: rgba(84, 144, 245, 1);
+    border: none;
+    margin-top: 24px; 
 
 
 }
+.d-g-m .green button {
+    width: Hug (122px)px;
+    height: Hug (41px)px;
+    padding: 11px 20px 11px 20px;
+    gap: 48px;
+    border-radius: 8px;
+    opacity: 0px;
+    background-color: rgba(9, 161, 92, 1);
+    border: none;
+    margin-top: 48px; 
+
+
+}
+.d-g-m .modern button {
+    width: Hug (122px)px;
+    height: Hug (41px)px;
+    padding: 11px 20px 11px 20px;
+    gap: 48px;
+    border-radius: 8px;
+    opacity: 0px;
+    background-color: rgba(255, 194, 57, 1);
+
+    border: none;
+    margin-top: 24px; 
+
+
+}
+
+.dr-Yunus {}
