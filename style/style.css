@@ -274,7 +274,8 @@
     border: 1px;
 
 }
-.h-mar{
+
+.h-mar {
     margin-top: 12px;
     margin-bottom: 4px;
 }
@@ -391,6 +392,7 @@
     border: 1px;
     background-color: rgba(0, 106, 80, 1);
     color: white;
+    margin-bottom: 80px;
 
 
 
@@ -411,4 +413,34 @@
 
 .do-mar-head {
     margin-bottom: 24px;
+}
+
+/* footer section styles */
+.foot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    justify-content: space-evenly;
+    width: 1600px;
+    height: 226px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.foot-head {
+    margin-bottom: 32px;
+}
+
+.foot-img {
+    margin-top: 32px;
+}
+
+.hr-padding {
+    width: 1122px;
+    height: 0px;
+    border: 1px 0px 0px 0px;
+    border: 1px solid rgba(14, 14, 14, 0.1)
 }
