@@ -360,6 +360,9 @@
     border: 1px solid rgba(14, 14, 14, 0.15);
     background-color: white;
 }
+.donate-btn:hover {
+    background-color: rgb(198,228,214);
+}
 
 .btn-text {
     font-size: 40px;
